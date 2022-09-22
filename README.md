@@ -12,14 +12,14 @@ I'm student from [42Tokyo](https://42tokyo.jp/).
 
 <div align="center">
 
-[![Libft](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/libft.png)](https://github.com/kotaiijima/libft)
+[![Libft](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/libfte.png)](https://github.com/kotaiijima/libft)
 [![GNL](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/get_next_linem.png)](https://github.com/kotaiijima/get_next_line)
 [![ft_printf](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/ft_printfe.png)](https://github.com/kotaiijima/ft_printf)
 [![B2B](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/born2beroote.png)](#)
-[![so_long](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/so_long.png)](https://github.com/kotaiijima/so_long)
+[![so_long](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/so_longe.png)](https://github.com/kotaiijima/so_long )
 [![minitalk](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/minitalke.png)](https://github.com/kotaiijima/minitalk)
 [![push_swap](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/push_swape.png)](https://github.com/kotaiijima/push_swap)
 [![minishell](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/minishelle.png)](#)
-[![phirosophers](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/phirosophers.png)](#)
+[![phirosophers](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/philosopherse.png)](#)
 
 </div>
