@@ -1,5 +1,3 @@
-# Hi there👋
-
 I'm student from [42Tokyo](https://42tokyo.jp/).
 
 ## 🤖Github status
