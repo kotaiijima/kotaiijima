@@ -1,5 +1,3 @@
-I'm student from [42Tokyo](https://42tokyo.jp/).
-
 ## 🤖Github status
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotaiijima&layout=compact&show_icons=true&theme=radical" />
@@ -10,7 +8,7 @@ I'm student from [42Tokyo](https://42tokyo.jp/).
 
 <div align="center">
 
-[![Libft](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/libfte.png)](https://github.com/kotaiijima/libft)
+<!-- [![Libft](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/libfte.png)](https://github.com/kotaiijima/libft)
 [![GNL](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/get_next_linem.png)](https://github.com/kotaiijima/get_next_line)
 [![ft_printf](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/ft_printfe.png)](https://github.com/kotaiijima/ft_printf)
 [![B2B](https://github.com/kotaiijima/kotaiijima/blob/main/42_badges/born2beroote.png)](#)
